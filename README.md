@@ -6,11 +6,11 @@
   <p>A Tool for Diabetes Analysis, Predictions </p>
   <!-- Badges -->
   <p>
-    <img src="" alt="last update" />
-    <img src="" alt="open source" />
-    <img src="" alt="language" />
-    <img src="" alt="code size" />
-    <img src="" alt="visitors count" />
+    <img src="https://img.shields.io/github/last-commit/deba951/Final-Year-Project" alt="last update" />
+    <img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" alt="open source" />
+    <img src="https://img.shields.io/github/languages/top/deba951/Final-Year-Project?color=red" alt="language" />
+    <img src="https://img.shields.io/github/languages/code-size/deba951/Final-Year-Project?color=informational" alt="code size" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=deba951.Final-Year-Project&left_color=grey&right_color=blueviolet" alt="visitors count" />
     <a href="https://github.com/deba951/Final-Year-Project/blob/main/LICENSE">
       <img src="https://img.shields.io/github/license/deba951/Final-Year-Project.svg?color=yellow" alt="license" />
     </a>
