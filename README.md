@@ -11,8 +11,8 @@
     <img src="" alt="language" />
     <img src="" alt="code size" />
     <img src="" alt="visitors count" />
-    <a href="">
-      <img src="https://github.com/deba951/Final-Year-Project/blob/main/LICENSE" alt="license" />
+    <a href="https://github.com/deba951/Final-Year-Project/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/deba951/Final-Year-Project.svg?color=yellow" alt="license" />
     </a>
   </p>
   
