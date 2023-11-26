@@ -12,7 +12,7 @@
     <img src="" alt="code size" />
     <img src="" alt="visitors count" />
     <a href="">
-      <img src="" alt="license" />
+      <img src="https://github.com/deba951/Final-Year-Project/blob/main/LICENSE" alt="license" />
     </a>
   </p>
   
