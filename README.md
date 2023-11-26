@@ -15,7 +15,7 @@
       <img src="https://img.shields.io/github/license/deba951/Final-Year-Project.svg?color=yellow" alt="license" />
     </a>
   </p>
-  
+
   <!--links-->
   <h4>
     <a href="#preview-">View Demo</a>
